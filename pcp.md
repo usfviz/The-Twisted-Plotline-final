@@ -1,0 +1,3 @@
+
+
+There is a distinct scoreline difference between players that win or lose. Generally, players that win have more tower kills and less deaths. Higher ranked (Diamond+) players tend to have more assists, while lower ranked players (Bronze) tend to have inflated scores from longer games. If a player plays more Supports, they generally have more assists than someone that plays Assassins, who would have more kills.

@@ -1,0 +1,1 @@
+Champion select is possibly the most indicative portion of winning or losing a game, and yet it happens before the game even begins. By picking and banning particular champions, winrate can increase or decrease dramatically.

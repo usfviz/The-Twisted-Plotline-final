@@ -1,0 +1,1 @@
+This plot shows the balance that teamwork adds to winning a game of League of Legends. Someone can be the best player that gets individual kills over and over, but being unable to work with a team leads to a lower winning percentage. By working as a team, it isn't necessarily easier to get kills, but by assisting others via teamwork one is more likely to win any given game.
